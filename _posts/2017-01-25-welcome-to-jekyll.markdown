@@ -15,7 +15,7 @@ def print_Hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Welcome')
-#=> prints 'Hi, Welcome' to STDOUT.
+print 'Hi, Welcome' 
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
